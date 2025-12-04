@@ -248,6 +248,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Blogging For Devs](https://bloggingfordevs.com/)
 - [Scaling DevTools](https://podcast.bitreach.io/)
 - [Marketing Jobs in OSS Startups](https://www.ossjobs.dev/?category=Marketing)
+- [Marketing Jobs in Dev Tooling Companies](https://devtooljobs.com/marketing)
 
 
 # Influencers and Educators
