@@ -248,6 +248,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [How to Market to Developers with Paid Marketing](https://www.moesif.com/blog/developer-marketing/paid-ads/Best-Practices-for-Paid-Marketing-To-Developers/)
 - [The API Landscape](https://apilandscape.platformable.com/)
 - [Blogging For Devs](https://bloggingfordevs.com/)
+- [SocialProof](https://socialproof.dev) - Collect and embed customer testimonials with one script tag. Built for developers. Free forever for 1 active widget.
 - [Scaling DevTools](https://podcast.bitreach.io/)
 - [Marketing Jobs in OSS Startups](https://www.ossjobs.dev/?category=Marketing)
 - [Marketing Jobs in Dev Tooling Companies](https://devtooljobs.com/marketing)
